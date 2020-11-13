@@ -36,4 +36,24 @@
 - [Xcode permission denied hatası ve çözümü](https://www.muratoner.net/ios/xcode-permission-denied-hatasi-ve-cozumu)
 - [Visual Studio Code İpuçları](https://www.muratoner.net/visual-studio-code/visual-studio-code-ipuclari)
 - [Docker mssql-docker “Accept-Eula” hatası ve çözümü](https://www.muratoner.net/docker/docker-mssql-docker-accept-eula-hatasi-ve-cozumu)
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:END -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!-- GitHub stats -->
+
+<b>⚡ My Dev Statistics</b>
+
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muratoner&show_icons=true&hide_border=true" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratoner&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+# My followers
+
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
