@@ -1,4 +1,4 @@
-![Banner](https://github.com/muratoner/muratoner/blob/master/cover.jpg)
+![Banner](https://github.com/muratoner/muratoner/blob/main/cover.jpg)
 
 <!-- retro visitor counter -->
 <p align="center"> 
@@ -33,10 +33,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Javascript Media Query Nedir ve Nasıl Kullanılır?](https://www.muratoner.net/javascript/javascript-media-query-nedir-ve-nasil-kullanilir)
 - [Gitignore Çalışmama Sorunu Nasıl Giderilir?](https://www.muratoner.net/git/gitignore-calismama-sorunu-nasil-giderilir)
 - [Xcode permission denied hatası ve çözümü](https://www.muratoner.net/ios/xcode-permission-denied-hatasi-ve-cozumu)
 - [Visual Studio Code İpuçları](https://www.muratoner.net/visual-studio-code/visual-studio-code-ipuclari)
 - [Docker mssql-docker “Accept-Eula” hatası ve çözümü](https://www.muratoner.net/docker/docker-mssql-docker-accept-eula-hatasi-ve-cozumu)
-<!-- BLOG-POST-LIST:END -->
->>>>>>> 438b0746788e8338657bb55dae47cd6d1dfc1af7
+  <!-- BLOG-POST-LIST:END -->
