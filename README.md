@@ -38,6 +38,79 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 41 Contributions in the Year 2020
+ > 
+> 📦 29.7 kB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 29 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+🌆 Daytime    14 commits     ████████████████░░░░░░░░░   63.64% 
+🌃 Evening    8 commits      █████████░░░░░░░░░░░░░░░░   36.36% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Tuesday      4 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Wednesday    1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.55% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       7 commits      ████████░░░░░░░░░░░░░░░░░   31.82% 
+Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Sunday       10 commits     ███████████░░░░░░░░░░░░░░   45.45%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Istanbul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in C#** 
+
+```text
+C#                       10 repos            ██████████░░░░░░░░░░░░░░░   41.67% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/muratoner/muratoner/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 <!-- GitHub stats -->
