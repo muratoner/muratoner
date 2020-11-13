@@ -14,12 +14,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/muratonerr" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/master/assets/twitter.svg" alt="muratoner" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/muratoner" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/master/assets/linkedin.svg" alt="muratoner" height="30" width="30" /></a>
-<a href="https://www.youtube.com/channel/UCitC_ZPcHmBcP_cxLPz04RQ?sub_confirmation=1" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/master/assets/youtube.svg" alt="muratoner" height="30" width="30" /></a>
-<a href="https://medium.com/@onermurat" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/master/assets/medium.svg" alt="muratoner" height="30" width="30" /></a>
-<a href="https://muratoner.net" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/master/assets/muratonernet.jpg" alt="Murat ÖNER Blog Sayfası" height="30" width="30" /></a>
-<a href="https://muratoner.net/feed" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/master/assets/rss.svg" alt="Murat ÖNER Blog Sayfası" height="30" width="30" /></a>
+<a href="https://twitter.com/muratonerr" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/main/assets/twitter.svg" alt="muratoner" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/muratoner" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/main/assets/linkedin.svg" alt="muratoner" height="30" width="30" /></a>
+<a href="https://www.youtube.com/channel/UCitC_ZPcHmBcP_cxLPz04RQ?sub_confirmation=1" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/main/assets/youtube.svg" alt="muratoner" height="30" width="30" /></a>
+<a href="https://medium.com/@onermurat" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/main/assets/medium.svg" alt="muratoner" height="30" width="30" /></a>
+<a href="https://muratoner.net" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/main/assets/muratonernet.jpg" alt="Murat ÖNER Blog Sayfası" height="30" width="30" /></a>
+<a href="https://muratoner.net/feed" target="blank"><img align="center" src="https://github.com/muratoner/muratoner/blob/main/assets/rss.svg" alt="Murat ÖNER Blog Sayfası" height="30" width="30" /></a>
 
 </p>
 
