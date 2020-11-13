@@ -55,4 +55,108 @@
 # My followers
 
 <!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/WildGenie">
+        <img src="https://avatars2.githubusercontent.com/u/39780" width="100px;" alt="WildGenie"/>
+      </a>
+      <br />
+      <a href="https://github.com/WildGenie">Bilgehan Zeki ÖZAYTAÇ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fpenbegul">
+        <img src="https://avatars2.githubusercontent.com/u/18633771" width="100px;" alt="fpenbegul"/>
+      </a>
+      <br />
+      <a href="https://github.com/fpenbegul">Furkan Penbegul</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/akinozgen">
+        <img src="https://avatars2.githubusercontent.com/u/9608963" width="100px;" alt="akinozgen"/>
+      </a>
+      <br />
+      <a href="https://github.com/akinozgen">Akın Özgen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/emrhsmz">
+        <img src="https://avatars2.githubusercontent.com/u/7373342" width="100px;" alt="emrhsmz"/>
+      </a>
+      <br />
+      <a href="https://github.com/emrhsmz">Emrah SEMİZ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/evrimulgen">
+        <img src="https://avatars2.githubusercontent.com/u/2697806" width="100px;" alt="evrimulgen"/>
+      </a>
+      <br />
+      <a href="https://github.com/evrimulgen">Evrim ÜLGEN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/srcnslmz">
+        <img src="https://avatars2.githubusercontent.com/u/5118832" width="100px;" alt="srcnslmz"/>
+      </a>
+      <br />
+      <a href="https://github.com/srcnslmz">Sercan SOLMAZ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/xgame92">
+        <img src="https://avatars2.githubusercontent.com/u/10054568" width="100px;" alt="xgame92"/>
+      </a>
+      <br />
+      <a href="https://github.com/xgame92">Yiğit Tanrıverdi</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sadedil">
+        <img src="https://avatars2.githubusercontent.com/u/2132971" width="100px;" alt="sadedil"/>
+      </a>
+      <br />
+      <a href="https://github.com/sadedil">Mustafa Sadedil</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sertunc">
+        <img src="https://avatars2.githubusercontent.com/u/6024003" width="100px;" alt="sertunc"/>
+      </a>
+      <br />
+      <a href="https://github.com/sertunc">Sertunc SELEN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dursunkatar">
+        <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
+      </a>
+      <br />
+      <a href="https://github.com/dursunkatar">Dursun KATAR</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zekeriyafince">
+        <img src="https://avatars2.githubusercontent.com/u/17789424" width="100px;" alt="zekeriyafince"/>
+      </a>
+      <br />
+      <a href="https://github.com/zekeriyafince">Zekeriya İnce</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/murattdogan">
+        <img src="https://avatars2.githubusercontent.com/u/5677481" width="100px;" alt="murattdogan"/>
+      </a>
+      <br />
+      <a href="https://github.com/murattdogan">Murat DOĞAN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/salihseker">
+        <img src="https://avatars2.githubusercontent.com/u/6261445" width="100px;" alt="salihseker"/>
+      </a>
+      <br />
+      <a href="https://github.com/salihseker">Salih ŞEKER</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/harunpehlivan">
+        <img src="https://avatars2.githubusercontent.com/u/4306341" width="100px;" alt="harunpehlivan"/>
+      </a>
+      <br />
+      <a href="https://github.com/harunpehlivan">HARUN PEHLİVAN</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
