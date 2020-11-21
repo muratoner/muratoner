@@ -130,10 +130,10 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muratoner&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muratoner&show_icons=true&theme=cobalt&hide_border=true" />
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratoner&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratoner&theme=cobalt&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 # My followers
