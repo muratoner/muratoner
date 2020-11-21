@@ -37,6 +37,10 @@
 - [Docker mssql-docker “Accept-Eula” hatası ve çözümü](https://www.muratoner.net/docker/docker-mssql-docker-accept-eula-hatasi-ve-cozumu)
 <!-- BLOG-POST-LIST:END -->
 
+### 📺 Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-153-blue)
 
