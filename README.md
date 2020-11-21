@@ -39,6 +39,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [DNS nedir ve kullanılabilecek DNS adresleri nelerdir? - DNS Perf - Cloud Flare DNS - Google DNS](https://www.youtube.com/watch?v=8XVl449eYH4)
+- [Windows 7, 8 ve 10'da DNS Adresi Nasıl Değiştirilir?](https://www.youtube.com/watch?v=paJSvFkkpKs)
+- [Windows 10 Pano Yöneticisi Nedir? Nasıl Aktif Edilir?](https://www.youtube.com/watch?v=YhNPo81z0g0)
+- [B450M PRO-VDH PLUS Bios Ayarlarından Sanallaştırma Özellliğini Aktif Etme](https://www.youtube.com/watch?v=6VcEatJ5wG8)
+- [Docker Desktop Sanallaştırma Hatası ve Çözümü](https://www.youtube.com/watch?v=I3slzIL0GGU)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
