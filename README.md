@@ -127,7 +127,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/muratoner/muratoner/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/muratoner/muratoner/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
