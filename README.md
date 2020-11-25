@@ -29,7 +29,7 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native AsyncStorage Kullanımı](https://www.muratoner.net/genel/react-native-asyncstorage-kullanimi)
+- [React Native AsyncStorage Kullanımı](https://www.muratoner.net/react-native/react-native-asyncstorage-kullanimi)
 - [Javascript Media Query Nedir ve Nasıl Kullanılır?](https://www.muratoner.net/javascript/javascript-media-query-nedir-ve-nasil-kullanilir)
 - [Gitignore Çalışmama Sorunu Nasıl Giderilir?](https://www.muratoner.net/git/gitignore-calismama-sorunu-nasil-giderilir)
 - [Xcode permission denied hatası ve çözümü](https://www.muratoner.net/ios/xcode-permission-denied-hatasi-ve-cozumu)
