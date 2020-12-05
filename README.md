@@ -46,7 +46,7 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **🐱 My Github Data** 
 
@@ -56,9 +56,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 31 Public Repositories
+> 📜 31 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+31 Private Repository 
  > 
 **I'm a Night 🦉** 
 
