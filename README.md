@@ -50,15 +50,15 @@
 
 **🐱 My Github Data** 
 
-> 🏆 69 Contributions in the Year 2020
+> 🏆 70 Contributions in the Year 2020
  > 
 > 📦 29.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
-31 Private Repository 
+32 Private Repository 
  > 
 **I'm a Night 🦉** 
 
