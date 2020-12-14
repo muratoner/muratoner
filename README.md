@@ -195,14 +195,21 @@ TypeScript               2 repos             ██░░░░░░░░░�
       <a href="https://github.com/srcnslmz">Sercan SOLMAZ</a>
     </td>
     <td align="center">
+      <a href="https://github.com/akinayturan">
+        <img src="https://avatars2.githubusercontent.com/u/3206344" width="100px;" alt="akinayturan"/>
+      </a>
+      <br />
+      <a href="https://github.com/akinayturan">Akın Ayturan</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/xgame92">
         <img src="https://avatars2.githubusercontent.com/u/10054568" width="100px;" alt="xgame92"/>
       </a>
       <br />
       <a href="https://github.com/xgame92">Yiğit Tanrıverdi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/sadedil">
         <img src="https://avatars2.githubusercontent.com/u/2132971" width="100px;" alt="sadedil"/>
@@ -244,13 +251,6 @@ TypeScript               2 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/salihseker">Salih ŞEKER</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/harunpehlivan">
-        <img src="https://avatars2.githubusercontent.com/u/4306341" width="100px;" alt="harunpehlivan"/>
-      </a>
-      <br />
-      <a href="https://github.com/harunpehlivan">HARUN PEHLİVAN</a>
     </td>
   </tr>
 </table>
