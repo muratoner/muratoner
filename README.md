@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Windows 10 Dark Mode](https://www.youtube.com/watch?v=dxiUIljAxF4)
 - [Crystal Disk Mark İle Disk Hız Testi Nasıl Yapılır?](https://www.youtube.com/watch?v=2w2QHVyUHrI)
 - [Visual Studio Code Nasıl Türkçeye Çevirilir](https://www.youtube.com/watch?v=oLDEgja8WOc)
 - [DNS nedir ve kullanılabilecek DNS adresleri nelerdir? - DNS Perf - Cloud Flare DNS - Google DNS](https://www.youtube.com/watch?v=8XVl449eYH4)
 - [Windows 7, 8 ve 10'da DNS Adresi Nasıl Değiştirilir?](https://www.youtube.com/watch?v=paJSvFkkpKs)
-- [Windows 10 Pano Yöneticisi Nedir? Nasıl Aktif Edilir?](https://www.youtube.com/watch?v=YhNPo81z0g0)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
