@@ -46,11 +46,11 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 94 Contributions in the Year 2020
+> 🏆 113 Contributions in the Year 2020
  > 
 > 📦 32.3 kB Used in Github's Storage 
  > 
