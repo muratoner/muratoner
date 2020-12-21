@@ -138,7 +138,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 ## I ❤️ Memes | A rand() memes for you :p
 
-<img alt="Random Memes" src="https://www.ohidur.com/memes/random.jpg?_n=4">
+<img alt="Random Memes" src="https://web.ohidur.com/memes/random.jpg?_n=4">
 
 # My followers
 
