@@ -46,17 +46,17 @@
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 150 Contributions in the Year 2020
+> 🏆 148 Contributions in the Year 2020
  > 
 > 📦 32.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 29 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
