@@ -218,13 +218,6 @@ TypeScript               2 repos             ██░░░░░░░░░�
       <a href="https://github.com/sertunc">Sertunc SELEN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dursunkatar">
-        <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
-      </a>
-      <br />
-      <a href="https://github.com/dursunkatar">Dursun KATAR</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/zekeriyafince">
         <img src="https://avatars2.githubusercontent.com/u/17789424" width="100px;" alt="zekeriyafince"/>
       </a>
@@ -237,6 +230,13 @@ TypeScript               2 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/murattdogan">Murat DOĞAN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/dursunkatar">
+        <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
+      </a>
+      <br />
+      <a href="https://github.com/dursunkatar">Dursun KATAR</a>
     </td>
     <td align="center">
       <a href="https://github.com/salihseker">
