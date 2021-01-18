@@ -41,7 +41,7 @@
 - [Google Chrome Tab Groups İle Sekmeleriniz Derli Toplu Olsun](https://www.youtube.com/watch?v=K5mmvfULJZ4)
 - [Visual Studio Code - Quokka.js ile Javascript ve Typescript Playground Alanı Oluşturma](https://www.youtube.com/watch?v=TgBy94nCmwo)
 - [Visual Studio Code - Git - Görsel Karşılaştırma / Kıyaslama](https://www.youtube.com/watch?v=vjEX3YB-jaI)
-- [Windows 10 Dark Mode](https://www.youtube.com/watch?v=dxiUIljAxF4)
+- [Windows 10 Dark/Koyu Mod Nedir? Nasıl Aktifleştirilir?](https://www.youtube.com/watch?v=dxiUIljAxF4)
 - [Crystal Disk Mark İle Disk Hız Testi Nasıl Yapılır?](https://www.youtube.com/watch?v=2w2QHVyUHrI)
 <!-- YOUTUBE:END -->
 
