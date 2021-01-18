@@ -218,18 +218,18 @@ TypeScript               2 repos             ██░░░░░░░░░�
       <a href="https://github.com/sertunc">Sertunc SELEN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zekeriyafince">
-        <img src="https://avatars2.githubusercontent.com/u/17789424" width="100px;" alt="zekeriyafince"/>
-      </a>
-      <br />
-      <a href="https://github.com/zekeriyafince">Zekeriya İnce</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/murattdogan">
         <img src="https://avatars2.githubusercontent.com/u/5677481" width="100px;" alt="murattdogan"/>
       </a>
       <br />
       <a href="https://github.com/murattdogan">Murat DOĞAN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zekeriyafince">
+        <img src="https://avatars2.githubusercontent.com/u/17789424" width="100px;" alt="zekeriyafince"/>
+      </a>
+      <br />
+      <a href="https://github.com/zekeriyafince">Zekeriya İnce</a>
     </td>
     <td align="center">
       <a href="https://github.com/dursunkatar">
