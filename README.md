@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Blazor nedir, geliştirme ortamı ve demo projesi nasıl oluşturulur?](https://www.youtube.com/watch?v=MRkZPA4SByI)
+- [Windows'da İmleç Nasıl Değiştirilir ve İmleç Nereden İndirilir?](https://www.youtube.com/watch?v=SY746pBM09c)
 - [Google chrome'da web sayfalarının koyu modda görünmesi](https://www.youtube.com/watch?v=V-UHE3nkICs)
 - [Google Chrome Tab Groups İle Sekmeleriniz Derli Toplu Olsun](https://www.youtube.com/watch?v=K5mmvfULJZ4)
 - [Visual Studio Code - Quokka.js ile Javascript ve Typescript Playground Alanı Oluşturma](https://www.youtube.com/watch?v=TgBy94nCmwo)
-- [Visual Studio Code - Git - Görsel Karşılaştırma / Kıyaslama](https://www.youtube.com/watch?v=vjEX3YB-jaI)
-- [Windows 10 Dark/Koyu Mod Nedir? Nasıl Aktifleştirilir?](https://www.youtube.com/watch?v=dxiUIljAxF4)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
