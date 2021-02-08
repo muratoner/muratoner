@@ -29,11 +29,11 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blazor nedir, geliştirme ortamı nasıl kurulur?](https://www.muratoner.net/blazor/blazor-nedir-gelistirme-ortami-nasil-kurulur)
 - [Flexbox Nedir? Nasıl Kullanılır?](https://www.muratoner.net/css/flexbox-nedir-nasil-kullanilir)
 - [Jupyter Notebook Nedir? Nasıl Kurulur?](https://www.muratoner.net/genel/jupyter-notebook-nedir-nasil-kurulur)
 - [React Native AsyncStorage Kullanımı](https://www.muratoner.net/react-native/react-native-asyncstorage-kullanimi)
 - [Javascript Media Query Nedir ve Nasıl Kullanılır?](https://www.muratoner.net/javascript/javascript-media-query-nedir-ve-nasil-kullanilir)
-- [Gitignore Çalışmama Sorunu Nasıl Giderilir?](https://www.muratoner.net/git/gitignore-calismama-sorunu-nasil-giderilir)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
