@@ -223,6 +223,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/oguzturker8">Oğuzhan Türker</a>
     </td>
     <td align="center">
+      <a href="https://github.com/dursunkatar">
+        <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
+      </a>
+      <br />
+      <a href="https://github.com/dursunkatar">Dursun KATAR</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/zekeriyafince">
         <img src="https://avatars2.githubusercontent.com/u/17789424" width="100px;" alt="zekeriyafince"/>
       </a>
@@ -235,13 +242,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/murattdogan">Murat DOĞAN</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/dursunkatar">
-        <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
-      </a>
-      <br />
-      <a href="https://github.com/dursunkatar">Dursun KATAR</a>
     </td>
   </tr>
 </table>
