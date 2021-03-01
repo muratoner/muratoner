@@ -172,18 +172,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/akinozgen">Akın Özgen</a>
     </td>
     <td align="center">
-      <a href="https://github.com/akinayturan">
-        <img src="https://avatars2.githubusercontent.com/u/3206344" width="100px;" alt="akinayturan"/>
-      </a>
-      <br />
-      <a href="https://github.com/akinayturan">Akın Ayturan</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sertunc">
         <img src="https://avatars2.githubusercontent.com/u/6024003" width="100px;" alt="sertunc"/>
       </a>
       <br />
       <a href="https://github.com/sertunc">Sertunc SELEN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/akinayturan">
+        <img src="https://avatars2.githubusercontent.com/u/3206344" width="100px;" alt="akinayturan"/>
+      </a>
+      <br />
+      <a href="https://github.com/akinayturan">Akın Ayturan</a>
     </td>
     <td align="center">
       <a href="https://github.com/srcnslmz">
