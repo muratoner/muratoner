@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [[KISA SÜRE ÜCRETSİZ] Baştan Sona Tüm Detaylarıyla HTML5 Eğitim Seti](https://www.youtube.com/watch?v=OKOz1QCE3S8)
+- [Vercel ile web projelerinizi ücretsiz olarak host edin](https://www.youtube.com/watch?v=8i8PH284JIg)
+- [FlutterFlow ile kolayca kod yazmadan Flutter mobil uygulaması veya tasarımları oluşturun](https://www.youtube.com/watch?v=X6D67OY20IE)
 - [Blazor nedir, geliştirme ortamı ve demo projesi nasıl oluşturulur?](https://www.youtube.com/watch?v=MRkZPA4SByI)
 - [Windows'da İmleç Nasıl Değiştirilir ve İmleç Nereden İndirilir?](https://www.youtube.com/watch?v=SY746pBM09c)
-- [Google chrome'da web sayfalarının koyu modda görünmesi](https://www.youtube.com/watch?v=V-UHE3nkICs)
-- [Google Chrome Tab Groups İle Sekmeleriniz Derli Toplu Olsun](https://www.youtube.com/watch?v=K5mmvfULJZ4)
-- [Visual Studio Code - Quokka.js ile Javascript ve Typescript Playground Alanı Oluşturma](https://www.youtube.com/watch?v=TgBy94nCmwo)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
