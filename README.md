@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [[KISA SÜRE ÜCRETSİZ] Baştan Sona Tüm Detaylarıyla HTML5 Eğitim Seti](https://www.youtube.com/watch?v=OKOz1QCE3S8)
-- [Vercel ile web projelerinizi ücretsiz olarak host edin](https://www.youtube.com/watch?v=8i8PH284JIg)
-- [FlutterFlow ile kolayca kod yazmadan Flutter mobil uygulaması veya tasarımları oluşturun](https://www.youtube.com/watch?v=X6D67OY20IE)
-- [Blazor nedir, geliştirme ortamı ve demo projesi nasıl oluşturulur?](https://www.youtube.com/watch?v=MRkZPA4SByI)
-- [Windows'da İmleç Nasıl Değiştirilir ve İmleç Nereden İndirilir?](https://www.youtube.com/watch?v=SY746pBM09c)
+- [Emmet - Actions - Balance Inward/Outward Nedir ve Nasıl Kullanılır?](https://www.youtube.com/watch?v=bQA5nfmJYg8)
+- [Bilgisayarın yazılım ve donanım özelliklerine nasıl bakılır veya öğrenilir?](https://www.youtube.com/watch?v=piyqYDQpirg)
+- [Emmet - Örtülü Etiket Adları(Implicit Tag Names) Nelerdir ve Nasıl Kullanılır?](https://www.youtube.com/watch?v=yeNNN1bUTIM)
+- [Virtual Box Nedir, Nasıl Kurulur ve Windows 10 Sanal Makineye Nasıl Kurulur?](https://www.youtube.com/watch?v=jKsC2OGL7v8)
+- [1- Javacript Nedir ve Hangi Ortamlarda Geliştririlir?](https://www.youtube.com/watch?v=TQcsFscNCO0)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
