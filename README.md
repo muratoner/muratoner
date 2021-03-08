@@ -204,13 +204,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/evrimulgen">Evrim ÜLGEN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sadedil">
-        <img src="https://avatars2.githubusercontent.com/u/2132971" width="100px;" alt="sadedil"/>
-      </a>
-      <br />
-      <a href="https://github.com/sadedil">Mustafa Sadedil</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/xgame92">
         <img src="https://avatars2.githubusercontent.com/u/10054568" width="100px;" alt="xgame92"/>
       </a>
@@ -218,11 +211,11 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/xgame92">Yiğit Tanrıverdi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/oguzturker8">
-        <img src="https://avatars2.githubusercontent.com/u/33129613" width="100px;" alt="oguzturker8"/>
+      <a href="https://github.com/sadedil">
+        <img src="https://avatars2.githubusercontent.com/u/2132971" width="100px;" alt="sadedil"/>
       </a>
       <br />
-      <a href="https://github.com/oguzturker8">Oğuzhan Türker</a>
+      <a href="https://github.com/sadedil">Mustafa Sadedil</a>
     </td>
     <td align="center">
       <a href="https://github.com/dursunkatar">
@@ -230,6 +223,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/dursunkatar">Dursun KATAR</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/oguzturker8">
+        <img src="https://avatars2.githubusercontent.com/u/33129613" width="100px;" alt="oguzturker8"/>
+      </a>
+      <br />
+      <a href="https://github.com/oguzturker8">Oguz Turker</a>
     </td>
     <td align="center">
       <a href="https://github.com/zekeriyafince">
