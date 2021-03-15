@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Emmet - Actions - Balance Inward/Outward Nedir ve Nasıl Kullanılır?](https://www.youtube.com/watch?v=bQA5nfmJYg8)
-- [Bilgisayarın yazılım ve donanım özelliklerine nasıl bakılır veya öğrenilir?](https://www.youtube.com/watch?v=piyqYDQpirg)
-- [Emmet - Örtülü Etiket Adları(Implicit Tag Names) Nelerdir ve Nasıl Kullanılır?](https://www.youtube.com/watch?v=yeNNN1bUTIM)
-- [Virtual Box Nedir, Nasıl Kurulur ve Windows 10 Sanal Makineye Nasıl Kurulur?](https://www.youtube.com/watch?v=jKsC2OGL7v8)
-- [1- Javacript Nedir ve Hangi Ortamlarda Geliştririlir?](https://www.youtube.com/watch?v=TQcsFscNCO0)
+- [Youtube Videolarınıza Logo/Filigran Nasıl Eklenir?](https://www.youtube.com/watch?v=cqL0JGcP0yA)
+- [Emmet - Actions - Increment Decrement Number](https://www.youtube.com/watch?v=pigl0oy6bek)
+- [Windows 10'da Komut Satırı Nasıl Açılır? Yöntemleri Nelerdir? [BONUS İPUCU İLE]](https://www.youtube.com/watch?v=aOm9SwTW-lA)
+- [Emmet - Actions - Evaluate Math Expression](https://www.youtube.com/watch?v=aLk2JdmDTsA)
+- [Emmet - Actions - Refrect CSS Value](https://www.youtube.com/watch?v=HYmrOGnKluc)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
