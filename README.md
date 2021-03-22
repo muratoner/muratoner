@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Emmet - Actions - Toggle Comment](https://www.youtube.com/watch?v=cyqdzoRr9Ak)
+- [Emmet - Actions - Select Item](https://www.youtube.com/watch?v=_AaTpV8q85s)
+- [Emmet - Actions - Split-Join Tag](https://www.youtube.com/watch?v=zFkh-hA3UzY)
+- [Emmet - Actions - Update Image Size](https://www.youtube.com/watch?v=oWz_b8G7oJk)
 - [Youtube Videolarınıza Logo/Filigran Nasıl Eklenir?](https://www.youtube.com/watch?v=cqL0JGcP0yA)
-- [Emmet - Actions - Increment Decrement Number](https://www.youtube.com/watch?v=pigl0oy6bek)
-- [Windows 10'da Komut Satırı Nasıl Açılır? Yöntemleri Nelerdir? [BONUS İPUCU İLE]](https://www.youtube.com/watch?v=aOm9SwTW-lA)
-- [Emmet - Actions - Evaluate Math Expression](https://www.youtube.com/watch?v=aLk2JdmDTsA)
-- [Emmet - Actions - Refrect CSS Value](https://www.youtube.com/watch?v=HYmrOGnKluc)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
