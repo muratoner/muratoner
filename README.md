@@ -152,18 +152,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/WildGenie">Bilgehan Zeki ÖZAYTAÇ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fpenbegul">
-        <img src="https://avatars2.githubusercontent.com/u/18633771" width="100px;" alt="fpenbegul"/>
-      </a>
-      <br />
-      <a href="https://github.com/fpenbegul">Furkan Penbegul</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/emrhsmz">
         <img src="https://avatars2.githubusercontent.com/u/7373342" width="100px;" alt="emrhsmz"/>
       </a>
       <br />
       <a href="https://github.com/emrhsmz">Emrah SEMİZ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fpenbegul">
+        <img src="https://avatars2.githubusercontent.com/u/18633771" width="100px;" alt="fpenbegul"/>
+      </a>
+      <br />
+      <a href="https://github.com/fpenbegul">Furkan Penbegul</a>
     </td>
     <td align="center">
       <a href="https://github.com/akinozgen">
