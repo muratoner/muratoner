@@ -38,11 +38,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Visual Studio Türkçe/İngilizce Dil Değişimi Nasıl Yapılır?](https://www.youtube.com/watch?v=d61HNHuxtNY)
+- [Youtube Dark Mode / Koyu Mode Nedir, Nasıl Aktif Edilir?](https://www.youtube.com/watch?v=chgjmQv_xTg)
 - [Emmet - Actions - Toggle Comment](https://www.youtube.com/watch?v=cyqdzoRr9Ak)
 - [Emmet - Actions - Select Item](https://www.youtube.com/watch?v=_AaTpV8q85s)
 - [Emmet - Actions - Split-Join Tag](https://www.youtube.com/watch?v=zFkh-hA3UzY)
-- [Emmet - Actions - Update Image Size](https://www.youtube.com/watch?v=oWz_b8G7oJk)
-- [Youtube Videolarınıza Logo/Filigran Nasıl Eklenir?](https://www.youtube.com/watch?v=cqL0JGcP0yA)
 <!-- YOUTUBE:END -->
 
 <!--START_SECTION:waka-->
