@@ -140,6 +140,13 @@ HTML                     3 repos             ██░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/XUZI0707">
+        <img src="https://avatars2.githubusercontent.com/u/35401210" width="100px;" alt="XUZI0707"/>
+      </a>
+      <br />
+      <a href="https://github.com/XUZI0707">XUZI0707</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/WildGenie">
         <img src="https://avatars2.githubusercontent.com/u/39780" width="100px;" alt="WildGenie"/>
       </a>
@@ -181,21 +188,21 @@ HTML                     3 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/akinayturan">Akın Ayturan</a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dursunkatar">
+        <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
+      </a>
+      <br />
+      <a href="https://github.com/dursunkatar">Dursun KATAR</a>
+    </td>
     <td align="center">
       <a href="https://github.com/srcnslmz">
         <img src="https://avatars2.githubusercontent.com/u/5118832" width="100px;" alt="srcnslmz"/>
       </a>
       <br />
       <a href="https://github.com/srcnslmz">Sercan SOLMAZ</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/evrimulgen">
-        <img src="https://avatars2.githubusercontent.com/u/2697806" width="100px;" alt="evrimulgen"/>
-      </a>
-      <br />
-      <a href="https://github.com/evrimulgen">Evrim ÜLGEN</a>
     </td>
     <td align="center">
       <a href="https://github.com/sadedil">
@@ -205,11 +212,11 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/sadedil">Mustafa Sadedil</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dursunkatar">
-        <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
+      <a href="https://github.com/evrimulgen">
+        <img src="https://avatars2.githubusercontent.com/u/2697806" width="100px;" alt="evrimulgen"/>
       </a>
       <br />
-      <a href="https://github.com/dursunkatar">Dursun KATAR</a>
+      <a href="https://github.com/evrimulgen">Evrim ÜLGEN</a>
     </td>
     <td align="center">
       <a href="https://github.com/xgame92">
@@ -231,13 +238,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/zekeriyafince">Zekeriya İnce</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/murattdogan">
-        <img src="https://avatars2.githubusercontent.com/u/5677481" width="100px;" alt="murattdogan"/>
-      </a>
-      <br />
-      <a href="https://github.com/murattdogan">Murat DOĞAN</a>
     </td>
   </tr>
 </table>
