@@ -19,7 +19,7 @@
 [![View Site](https://img.shields.io/badge/View-white.svg?&style=for-the-badge&logo=safari&logoColor=blue)](https://muratoner.net)
 [![Follow on Medium](https://img.shields.io/badge/Follow-green?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@onermurat)
 
-# Blog posts
+### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Blazor nedir, geliştirme ortamı nasıl kurulur?](https://www.muratoner.net/blazor/blazor-nedir-gelistirme-ortami-nasil-kurulur)
