@@ -120,10 +120,6 @@ HTML                     3 repos             ██░░░░░░░░░�
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratoner&theme=radical&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-## I ❤️ Memes | A rand() memes for you :p
-
-<img alt="Random Memes" src="https://web.ohidur.com/memes/random.jpg?_n=4">
-
 # My followers
 
 <!--START_SECTION:top-followers-->
