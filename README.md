@@ -19,8 +19,6 @@
 [![View Site](https://img.shields.io/badge/View-white.svg?&style=for-the-badge&logo=safari&logoColor=blue)](https://muratoner.net)
 [![Follow on Medium](https://img.shields.io/badge/Follow-green?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@onermurat)
 
-<br />
-
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
