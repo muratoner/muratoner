@@ -40,9 +40,6 @@
 - [Emmet - Actions - Split-Join Tag](https://www.youtube.com/watch?v=zFkh-hA3UzY)
 <!-- YOUTUBE:END -->
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 60 Contributions in the Year 2021
