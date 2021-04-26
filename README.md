@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [After Effect'de video nasıl bölünür/parçalanır/dilimlenir?](https://www.youtube.com/watch?v=TabsbbITeQQ)
+- [Edge tarayıcısı kapandığında tarayıcı geçmişini otomatik temizleme](https://www.youtube.com/watch?v=PcPmjwcGYgo)
+- [Json-Server İle Fake Rest API Backend Server Nasıl Oluşturulur?](https://www.youtube.com/watch?v=Sswl0bTDEFU)
+- [.NET Fiddle İle Online C#, VB.NET ve F# Kodlayın](https://www.youtube.com/watch?v=b84JCOH2qhY)
 - [Visual Studio Türkçe/İngilizce Dil Değişimi Nasıl Yapılır?](https://www.youtube.com/watch?v=d61HNHuxtNY)
-- [Youtube Dark Mode / Koyu Mode Nedir, Nasıl Aktif Edilir?](https://www.youtube.com/watch?v=chgjmQv_xTg)
-- [Emmet - Actions - Toggle Comment](https://www.youtube.com/watch?v=cyqdzoRr9Ak)
-- [Emmet - Actions - Select Item](https://www.youtube.com/watch?v=_AaTpV8q85s)
-- [Emmet - Actions - Split-Join Tag](https://www.youtube.com/watch?v=zFkh-hA3UzY)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
