@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visual Studio 2022 Çok Güzel Özelliklerle Geliyor!](https://www.muratoner.net/visual-studio/visual-studio-2022-cok-guzel-ozelliklerle-geliyor)
 - [Blazor nedir, geliştirme ortamı nasıl kurulur?](https://www.muratoner.net/blazor/blazor-nedir-gelistirme-ortami-nasil-kurulur)
 - [Flexbox Nedir? Nasıl Kullanılır?](https://www.muratoner.net/css/flexbox-nedir-nasil-kullanilir)
 - [Jupyter Notebook Nedir? Nasıl Kurulur?](https://www.muratoner.net/genel/jupyter-notebook-nedir-nasil-kurulur)
 - [React Native AsyncStorage Kullanımı](https://www.muratoner.net/react-native/react-native-asyncstorage-kullanimi)
-- [Javascript Media Query Nedir ve Nasıl Kullanılır?](https://www.muratoner.net/javascript/javascript-media-query-nedir-ve-nasil-kullanilir)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
