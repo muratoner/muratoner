@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [After Effect'de video nasıl bölünür/parçalanır/dilimlenir?](https://www.youtube.com/watch?v=TabsbbITeQQ)
-- [Edge tarayıcısı kapandığında tarayıcı geçmişini otomatik temizleme](https://www.youtube.com/watch?v=PcPmjwcGYgo)
-- [Json-Server İle Fake Rest API Backend Server Nasıl Oluşturulur?](https://www.youtube.com/watch?v=Sswl0bTDEFU)
-- [.NET Fiddle İle Online C#, VB.NET ve F# Kodlayın](https://www.youtube.com/watch?v=b84JCOH2qhY)
-- [Visual Studio Türkçe/İngilizce Dil Değişimi Nasıl Yapılır?](https://www.youtube.com/watch?v=d61HNHuxtNY)
+- [Blazor'da yeni sayfa, @layout, @code @inherit @page nasıl oluşturulur?](https://www.youtube.com/watch?v=RrizpHm3S8w)
+- [HTML ve CSS Renk Kodları Nelerdir? Nasıl Kullanılır?](https://www.youtube.com/watch?v=0DYX-i9eIVA)
+- [Ücretsiz Mobil Gerçek Cihaz - Samsung Remote Test Lab](https://www.youtube.com/watch?v=BphlNvG9mB8)
+- [After Effect'te videoyu composition'a sığdırma](https://www.youtube.com/watch?v=N0XMXlIsVgY)
+- [Yazılımsız 4 farklı yöntemde anakart marka/model öğren](https://www.youtube.com/watch?v=RiVaq5QajWw)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
