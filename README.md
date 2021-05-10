@@ -133,18 +133,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/XUZI0707">XUZI0707</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WildGenie">
-        <img src="https://avatars2.githubusercontent.com/u/39780" width="100px;" alt="WildGenie"/>
-      </a>
-      <br />
-      <a href="https://github.com/WildGenie">Bilgehan Zeki ÖZAYTAÇ</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/emrhsmz">
         <img src="https://avatars2.githubusercontent.com/u/7373342" width="100px;" alt="emrhsmz"/>
       </a>
       <br />
       <a href="https://github.com/emrhsmz">Emrah SEMİZ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WildGenie">
+        <img src="https://avatars2.githubusercontent.com/u/39780" width="100px;" alt="WildGenie"/>
+      </a>
+      <br />
+      <a href="https://github.com/WildGenie">Bilgehan Zeki ÖZAYTAÇ</a>
     </td>
     <td align="center">
       <a href="https://github.com/fpenbegul">
@@ -219,11 +219,11 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/xgame92">Yiğit Tanrıverdi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zekeriyafince">
-        <img src="https://avatars2.githubusercontent.com/u/17789424" width="100px;" alt="zekeriyafince"/>
+      <a href="https://github.com/mvolkanaslan">
+        <img src="https://avatars2.githubusercontent.com/u/68739154" width="100px;" alt="mvolkanaslan"/>
       </a>
       <br />
-      <a href="https://github.com/zekeriyafince">Zekeriya İnce</a>
+      <a href="https://github.com/mvolkanaslan">Volkan Aslan</a>
     </td>
   </tr>
 </table>
