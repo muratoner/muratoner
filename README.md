@@ -133,18 +133,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/XUZI0707">XUZI0707</a>
     </td>
     <td align="center">
-      <a href="https://github.com/emrhsmz">
-        <img src="https://avatars2.githubusercontent.com/u/7373342" width="100px;" alt="emrhsmz"/>
-      </a>
-      <br />
-      <a href="https://github.com/emrhsmz">Emrah SEMİZ</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/WildGenie">
         <img src="https://avatars2.githubusercontent.com/u/39780" width="100px;" alt="WildGenie"/>
       </a>
       <br />
       <a href="https://github.com/WildGenie">Bilgehan Zeki ÖZAYTAÇ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/emrhsmz">
+        <img src="https://avatars2.githubusercontent.com/u/7373342" width="100px;" alt="emrhsmz"/>
+      </a>
+      <br />
+      <a href="https://github.com/emrhsmz">Emrah SEMİZ</a>
     </td>
     <td align="center">
       <a href="https://github.com/fpenbegul">
@@ -177,18 +177,18 @@ HTML                     3 repos             ██░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/sadedil">
-        <img src="https://avatars2.githubusercontent.com/u/2132971" width="100px;" alt="sadedil"/>
-      </a>
-      <br />
-      <a href="https://github.com/sadedil">Mustafa Sadedil</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/srcnslmz">
         <img src="https://avatars2.githubusercontent.com/u/5118832" width="100px;" alt="srcnslmz"/>
       </a>
       <br />
       <a href="https://github.com/srcnslmz">Sercan SOLMAZ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sadedil">
+        <img src="https://avatars2.githubusercontent.com/u/2132971" width="100px;" alt="sadedil"/>
+      </a>
+      <br />
+      <a href="https://github.com/sadedil">Mustafa Sadedil</a>
     </td>
     <td align="center">
       <a href="https://github.com/dursunkatar">
