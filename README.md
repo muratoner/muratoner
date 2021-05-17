@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Blazor Nested / İç içe layout nedir, nasıl kullanılır?](https://www.youtube.com/watch?v=akLkZ3y579A)
-- [Visual Studio 2019 Community Nasıl Kurulur?](https://www.youtube.com/watch?v=PRNQP_cQIqw)
-- [After Effect'de aktif konuma kopyalanan içeriği yapıştırma nasıl yapılır?](https://www.youtube.com/watch?v=zwmDUb6smgQ)
-- [Blazor layout yapısı nedir, nasıl kullanılır?](https://www.youtube.com/watch?v=a4zZ3X5OvYI)
-- [Blazor'da yeni sayfa, @layout, @code @inherit @page nasıl oluşturulur?](https://www.youtube.com/watch?v=RrizpHm3S8w)
+- [Ücretsiz 100+ Geliştirici / Developer fontları](https://www.youtube.com/watch?v=-TxYVxhBHF0)
+- [Blazor _Imports.razor dosyası nedir, nasıl kullanılır?](https://www.youtube.com/watch?v=MItoxsMVEGg)
+- [Youtube videolarına sadece 5 dakikada otomatik altyazı üretin ve uygulayın - pyTranscriber](https://www.youtube.com/watch?v=2jzKETfWa4E)
+- [Blazor Component Nedir, Nasıl Oluştururulur ve Nasıl Kullanılır?](https://www.youtube.com/watch?v=-yc1RV1ierc)
+- [Asus Anakart Bios Sanallaştırma/Virtualization Nasıl Açılır?](https://www.youtube.com/watch?v=7YorUuAxv4M)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
