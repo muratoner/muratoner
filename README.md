@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Ücretsiz 100+ Geliştirici / Developer fontları](https://www.youtube.com/watch?v=-TxYVxhBHF0)
-- [Blazor _Imports.razor dosyası nedir, nasıl kullanılır?](https://www.youtube.com/watch?v=MItoxsMVEGg)
-- [Youtube videolarına sadece 5 dakikada otomatik altyazı üretin ve uygulayın - pyTranscriber](https://www.youtube.com/watch?v=2jzKETfWa4E)
-- [Blazor Component Nedir, Nasıl Oluştururulur ve Nasıl Kullanılır?](https://www.youtube.com/watch?v=-yc1RV1ierc)
-- [Asus Anakart Bios Sanallaştırma/Virtualization Nasıl Açılır?](https://www.youtube.com/watch?v=7YorUuAxv4M)
+- [Blazor - Component'e değer atama yöntemi ve türü nelerdir?](https://www.youtube.com/watch?v=nogMZzMHGGw)
+- [Wordpress - sayfa ve yazılarda yorum alanı nasıl kapatılır?](https://www.youtube.com/watch?v=MWLUoXBOXdo)
+- [Xampp ile local php server ve wordpress kurulumu nasıl yapılır?](https://www.youtube.com/watch?v=V3UbWkrTImY)
+- [Blazor - EventCallback ve Action Farkı Nedir, Nasıl Kullanılır?](https://www.youtube.com/watch?v=8bR9Pf8Upz8)
+- [Ücretsiz Binlerce Bootstrap Tasarımları ve Kullanımı](https://www.youtube.com/watch?v=SCHmzHb3iIU)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
