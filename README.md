@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Found .NET SDK, but did not find dotnet.dll, Hata Çözümü](https://www.muratoner.net/genel/found-net-sdk-but-did-not-find-dotnet-dll-at-hatasi-cozumu)
-- [Building iOS Simulator, the linked framework… Hata Çözüm](https://www.muratoner.net/genel/building-ios-simulator-the-linked-framework-hata-cozum)
-- [Visual Studio 2022 Çok Güzel Özelliklerle Geliyor!](https://www.muratoner.net/visual-studio/visual-studio-2022-cok-guzel-ozelliklerle-geliyor)
-- [Blazor nedir, geliştirme ortamı nasıl kurulur?](https://www.muratoner.net/blazor/blazor-nedir-gelistirme-ortami-nasil-kurulur)
-- [CSS3 Flexbox Nedir? Nasıl Kullanılır? Detaylı Flexbox Eğitimi](https://www.muratoner.net/css/flexbox-nedir-nasil-kullanilir)
+- [WebProxy Nedir, Nasıl Kullanılır – HttpClient – .Net Core](https://www.muratoner.net/aspnet/asp-net-core/webproxy-nedir-nasil-kullanilir-httpclient-net-core)
+- [Sql save changes is not permitted Hatası Çözümü](https://www.muratoner.net/genel/sql-save-changes-is-not-permitted-hatasi-cozumu)
+- [Element içine border nasıl yapılır – CSS](https://www.muratoner.net/css/element-icine-border-nasil-yapilir-css)
+- [WordPress yorum giriş alanını yorumların üzerine taşıma](https://www.muratoner.net/genel/wordpress-yorum-giris-alanini-yorumlarin-uzerine-tasima)
+- [Duplicated files or mocks – Hata Çözümü – React Native](https://www.muratoner.net/genel/duplicated-files-or-mocks-hata-cozumu-react-native)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
