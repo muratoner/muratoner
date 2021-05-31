@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Blazor @page direktifi ve route işlemleri nasıl kullanılır ve yapılır?](https://www.youtube.com/watch?v=4-yOJJJfZ6c)
+- [React SPA, MPA, JSX, DOM, Virtual Dom, Component Nedir?](https://www.youtube.com/watch?v=03uorFaAMQU)
 - [Blazor - Component'e değer atama yöntemi ve türü nelerdir?](https://www.youtube.com/watch?v=nogMZzMHGGw)
 - [Wordpress - sayfa ve yazılarda yorum alanı nasıl kapatılır?](https://www.youtube.com/watch?v=MWLUoXBOXdo)
 - [Xampp ile local php server ve wordpress kurulumu nasıl yapılır?](https://www.youtube.com/watch?v=V3UbWkrTImY)
-- [Blazor - EventCallback ve Action Farkı Nedir, Nasıl Kullanılır?](https://www.youtube.com/watch?v=8bR9Pf8Upz8)
-- [Ücretsiz Binlerce Bootstrap Tasarımları ve Kullanımı](https://www.youtube.com/watch?v=SCHmzHb3iIU)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
