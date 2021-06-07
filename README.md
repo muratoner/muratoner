@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Timer Nedir, Örnekli Nasıl Kullanılır?](https://www.muratoner.net/csharp/c-timer-nedir-ornekli-nasil-kullanilir)
+- [Python PyAutoGUI nedir, nasıl kurulur, örnekli kullanım?](https://www.muratoner.net/genel/python-pyautogui-nedir-nasil-kurulur-ornekli-kullanim)
 - [Html a Etiketi Nedir? Link (Bağlantı) Ekleme / Oluşturma](https://www.muratoner.net/genel/html-a-etiketi-nedir-link-baglanti-ekleme-olusturma)
 - [Npx Nedir, Neden Kullanılır, Npm Install’dan Farkı Nedir?](https://www.muratoner.net/genel/npx-nedir-neden-kullanilir-npm-installdan-farki-nedir)
 - [C# random number / rastgele sayı üretme nasıl yapılır?](https://www.muratoner.net/csharp/c-random-number-rastgele-sayi-uretme-nasil-yapilir)
-- [WebProxy Nedir, Nasıl Kullanılır – HttpClient – .Net Core](https://www.muratoner.net/aspnet/asp-net-core/webproxy-nedir-nasil-kullanilir-httpclient-net-core)
-- [Sql save changes is not permitted Hatası Çözümü](https://www.muratoner.net/genel/sql-save-changes-is-not-permitted-hatasi-cozumu)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
