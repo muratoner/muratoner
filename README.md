@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Windows 10 - Hava Durumu/Haberler Görev Çubuğu Aracı Nasıl Kaldırılır/Açılır?](https://www.youtube.com/watch?v=u5dTeLafhpk)
+- [Sql Server Express 2019 Edition Nedir, Nasıl İndirilir ve Kurulur?](https://www.youtube.com/watch?v=qhsJl0PSoMY)
 - [Detaylı Github Desktop Nedir, Nasıl Kurulur ve Kullanılır?](https://www.youtube.com/watch?v=gRZW8eTmLMA)
 - [Blazor @page direktifi ve route işlemleri nasıl kullanılır ve yapılır?](https://www.youtube.com/watch?v=4-yOJJJfZ6c)
 - [React SPA, MPA, JSX, DOM, Virtual Dom, Component Nedir?](https://www.youtube.com/watch?v=03uorFaAMQU)
-- [Blazor - Component'e değer atama yöntemi ve türü nelerdir?](https://www.youtube.com/watch?v=nogMZzMHGGw)
-- [Wordpress - sayfa ve yazılarda yorum alanı nasıl kapatılır?](https://www.youtube.com/watch?v=MWLUoXBOXdo)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
