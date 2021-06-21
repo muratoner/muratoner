@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Best Practices – En İyi Pratikler Nelerdir?](https://www.muratoner.net/csharp/c-best-practices)
 - [Projede kaç satır kod olduğunu hesaplama](https://www.muratoner.net/genel/projede-kac-satir-kod-oldugunu-hesaplama)
 - [C# Timer Nedir, Örnekli Nasıl Kullanılır?](https://www.muratoner.net/csharp/c-timer-nedir-ornekli-nasil-kullanilir)
 - [Python PyAutoGUI nedir, nasıl kurulur, örnekli kullanım?](https://www.muratoner.net/genel/python-pyautogui-nedir-nasil-kurulur-ornekli-kullanim)
 - [Html a Etiketi Nedir? Link (Bağlantı) Ekleme / Oluşturma](https://www.muratoner.net/genel/html-a-etiketi-nedir-link-baglanti-ekleme-olusturma)
-- [Npx Nedir, Neden Kullanılır, Npm Install’dan Farkı Nedir?](https://www.muratoner.net/genel/npx-nedir-neden-kullanilir-npm-installdan-farki-nedir)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
