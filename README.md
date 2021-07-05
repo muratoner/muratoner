@@ -191,13 +191,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/srcnslmz">Sercan SOLMAZ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dursunkatar">
-        <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
-      </a>
-      <br />
-      <a href="https://github.com/dursunkatar">Dursun KATAR</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/evrimulgen">
         <img src="https://avatars2.githubusercontent.com/u/2697806" width="100px;" alt="evrimulgen"/>
       </a>
@@ -205,11 +198,11 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/evrimulgen">Evrim ÜLGEN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mvolkanaslan">
-        <img src="https://avatars2.githubusercontent.com/u/68739154" width="100px;" alt="mvolkanaslan"/>
+      <a href="https://github.com/dursunkatar">
+        <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
       </a>
       <br />
-      <a href="https://github.com/mvolkanaslan">Volkan Aslan</a>
+      <a href="https://github.com/dursunkatar">Dursun KATAR</a>
     </td>
     <td align="center">
       <a href="https://github.com/oguzturker8">
@@ -217,6 +210,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/oguzturker8">Oguz Turker</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mvolkanaslan">
+        <img src="https://avatars2.githubusercontent.com/u/68739154" width="100px;" alt="mvolkanaslan"/>
+      </a>
+      <br />
+      <a href="https://github.com/mvolkanaslan">Volkan Aslan</a>
     </td>
     <td align="center">
       <a href="https://github.com/xgame92">
