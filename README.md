@@ -205,18 +205,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/dursunkatar">Dursun KATAR</a>
     </td>
     <td align="center">
-      <a href="https://github.com/oguzturker8">
-        <img src="https://avatars2.githubusercontent.com/u/33129613" width="100px;" alt="oguzturker8"/>
-      </a>
-      <br />
-      <a href="https://github.com/oguzturker8">Oguz Turker</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/mvolkanaslan">
         <img src="https://avatars2.githubusercontent.com/u/68739154" width="100px;" alt="mvolkanaslan"/>
       </a>
       <br />
       <a href="https://github.com/mvolkanaslan">Volkan Aslan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/oguzturker8">
+        <img src="https://avatars2.githubusercontent.com/u/33129613" width="100px;" alt="oguzturker8"/>
+      </a>
+      <br />
+      <a href="https://github.com/oguzturker8">Oguz Turker</a>
     </td>
     <td align="center">
       <a href="https://github.com/xgame92">
