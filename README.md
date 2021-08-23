@@ -126,11 +126,11 @@ HTML                     3 repos             ██░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/XUZI0707">
-        <img src="https://avatars2.githubusercontent.com/u/35401210" width="100px;" alt="XUZI0707"/>
+      <a href="https://github.com/XF0808">
+        <img src="https://avatars2.githubusercontent.com/u/35401210" width="100px;" alt="XF0808"/>
       </a>
       <br />
-      <a href="https://github.com/XUZI0707">XUZI0707</a>
+      <a href="https://github.com/XF0808">XF0808</a>
     </td>
     <td align="center">
       <a href="https://github.com/WildGenie">
@@ -212,11 +212,11 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/mvolkanaslan">Volkan Aslan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/oguzturker8">
-        <img src="https://avatars2.githubusercontent.com/u/33129613" width="100px;" alt="oguzturker8"/>
+      <a href="https://github.com/zekeriyafince">
+        <img src="https://avatars2.githubusercontent.com/u/17789424" width="100px;" alt="zekeriyafince"/>
       </a>
       <br />
-      <a href="https://github.com/oguzturker8">Oguz Turker</a>
+      <a href="https://github.com/zekeriyafince">Zekeriya İnce</a>
     </td>
     <td align="center">
       <a href="https://github.com/xgame92">
