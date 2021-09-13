@@ -140,6 +140,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/WildGenie">Bilgehan Zeki ÖZAYTAÇ</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Eugene0920">
+        <img src="https://avatars2.githubusercontent.com/u/90056738" width="100px;" alt="Eugene0920"/>
+      </a>
+      <br />
+      <a href="https://github.com/Eugene0920">Eugene Fitzherbert</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/emrhsmz">
         <img src="https://avatars2.githubusercontent.com/u/7373342" width="100px;" alt="emrhsmz"/>
       </a>
@@ -159,13 +166,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/akinozgen">Akın Özgen</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Eugene20920">
-        <img src="https://avatars2.githubusercontent.com/u/90056738" width="100px;" alt="Eugene20920"/>
-      </a>
-      <br />
-      <a href="https://github.com/Eugene20920">Eugene Fitzherbert</a>
     </td>
     <td align="center">
       <a href="https://github.com/sertunc">
@@ -198,18 +198,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/sadedil">Mustafa Sadedil</a>
     </td>
     <td align="center">
-      <a href="https://github.com/evrimulgen">
-        <img src="https://avatars2.githubusercontent.com/u/2697806" width="100px;" alt="evrimulgen"/>
-      </a>
-      <br />
-      <a href="https://github.com/evrimulgen">Evrim ÜLGEN</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/dursunkatar">
         <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
       </a>
       <br />
       <a href="https://github.com/dursunkatar">Dursun KATAR</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/evrimulgen">
+        <img src="https://avatars2.githubusercontent.com/u/2697806" width="100px;" alt="evrimulgen"/>
+      </a>
+      <br />
+      <a href="https://github.com/evrimulgen">Evrim ÜLGEN</a>
     </td>
     <td align="center">
       <a href="https://github.com/srcnslmz">
