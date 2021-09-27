@@ -205,18 +205,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/dursunkatar">Dursun KATAR</a>
     </td>
     <td align="center">
-      <a href="https://github.com/evrimulgen">
-        <img src="https://avatars2.githubusercontent.com/u/2697806" width="100px;" alt="evrimulgen"/>
-      </a>
-      <br />
-      <a href="https://github.com/evrimulgen">Evrim ÜLGEN</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/srcnslmz">
         <img src="https://avatars2.githubusercontent.com/u/5118832" width="100px;" alt="srcnslmz"/>
       </a>
       <br />
       <a href="https://github.com/srcnslmz">Sercan SOLMAZ</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/evrimulgen">
+        <img src="https://avatars2.githubusercontent.com/u/2697806" width="100px;" alt="evrimulgen"/>
+      </a>
+      <br />
+      <a href="https://github.com/evrimulgen">Evrim ÜLGEN</a>
     </td>
     <td align="center">
       <a href="https://github.com/oguzturker8">
