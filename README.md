@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Ortalama Yöntemleri Nelerdir? Bir Div Nasıl Ortalanır?](https://www.muratoner.net/css/css-ortalama-yontemleri-nelerdir-bir-div-nasil-ortalanir)
+- [Google’ın az bilinen özellikleri](https://www.muratoner.net/internet/google-in-az-bilinen-20-ozelligi)
 - [C# Best Practices – En İyi Pratikler Nelerdir?](https://www.muratoner.net/csharp/c-best-practices)
 - [Projede kaç satır kod olduğunu hesaplama](https://www.muratoner.net/genel/projede-kac-satir-kod-oldugunu-hesaplama)
 - [C# Timer Nedir, Örnekli Nasıl Kullanılır?](https://www.muratoner.net/csharp/c-timer-nedir-ornekli-nasil-kullanilir)
-- [Python PyAutoGUI nedir, nasıl kurulur, örnekli kullanım?](https://www.muratoner.net/genel/python-pyautogui-nedir-nasil-kurulur-ornekli-kullanim)
-- [Html a Etiketi Nedir? Link (Bağlantı) Ekleme / Oluşturma](https://www.muratoner.net/genel/html-a-etiketi-nedir-link-baglanti-ekleme-olusturma)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
