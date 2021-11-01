@@ -154,18 +154,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/emrhsmz">Emrah SEMİZ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/fpenbegul">
-        <img src="https://avatars2.githubusercontent.com/u/18633771" width="100px;" alt="fpenbegul"/>
-      </a>
-      <br />
-      <a href="https://github.com/fpenbegul">Furkan Penbegul</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/akinozgen">
         <img src="https://avatars2.githubusercontent.com/u/9608963" width="100px;" alt="akinozgen"/>
       </a>
       <br />
       <a href="https://github.com/akinozgen">Akın Özgen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/fpenbegul">
+        <img src="https://avatars2.githubusercontent.com/u/18633771" width="100px;" alt="fpenbegul"/>
+      </a>
+      <br />
+      <a href="https://github.com/fpenbegul">Furkan Penbegul</a>
     </td>
     <td align="center">
       <a href="https://github.com/sertunc">
