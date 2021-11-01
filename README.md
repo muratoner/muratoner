@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dotnet-migration does not exist, Hatası ve Çözümü](https://www.muratoner.net/csharp/dotnet-migration-does-not-exist-hatasi-ve-cozumu)
 - [CSS Ortalama Yöntemleri Nelerdir? Bir Div Nasıl Ortalanır?](https://www.muratoner.net/css/css-ortalama-yontemleri-nelerdir-bir-div-nasil-ortalanir)
 - [Google’ın az bilinen özellikleri](https://www.muratoner.net/internet/google-in-az-bilinen-20-ozelligi)
 - [C# Best Practices – En İyi Pratikler Nelerdir?](https://www.muratoner.net/csharp/c-best-practices)
 - [Projede kaç satır kod olduğunu hesaplama](https://www.muratoner.net/genel/projede-kac-satir-kod-oldugunu-hesaplama)
-- [C# Timer Nedir, Örnekli Nasıl Kullanılır?](https://www.muratoner.net/csharp/c-timer-nedir-ornekli-nasil-kullanilir)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
