@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Blazor NavigationManager Nedir, Nasıl Kullanılır ve Sayfa Yönlendirmeleri Nasıl Yapılır?](https://www.youtube.com/watch?v=hOOYwP6CJdE)
 - [Blazor - Dependency Injection nedir, nasıl kullanılır?](https://www.youtube.com/watch?v=d5MHO2Y3SD0)
 - [Windows 10 - Hava Durumu/Haberler Görev Çubuğu Aracı Nasıl Kaldırılır/Açılır?](https://www.youtube.com/watch?v=u5dTeLafhpk)
 - [Sql Server Express 2019 Edition ve Management Studio Nedir, Nasıl İndirilir ve Kurulur?](https://www.youtube.com/watch?v=qhsJl0PSoMY)
 - [Detaylı Github Desktop Nedir, Nasıl Kurulur ve Kullanılır?](https://www.youtube.com/watch?v=gRZW8eTmLMA)
-- [Blazor @page direktifi ve route işlemleri nasıl kullanılır ve yapılır?](https://www.youtube.com/watch?v=4-yOJJJfZ6c)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
