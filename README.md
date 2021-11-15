@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML Translate Attribute Nedir, Neden Kullanılır?](https://www.muratoner.net/html/html-translate-attribute-nedir-neden-kullanilir)
+- [Javascript Switch Case Nedir, Örnekli Nasıl Kullanılır?](https://www.muratoner.net/javascript/javascript-switch-case-nedir-ornekli-nasil-kullanilir)
 - [Sql Between Nedir? Nasıl Kullanılır?](https://www.muratoner.net/sql/sql-between-nedir-nasil-kullanilir)
 - [SQL ile tabloların listesi nasıl alınır?](https://www.muratoner.net/sql/tsql/sql-ile-tablolarin-listesi-nasil-alinir)
 - [Javascript Türkçe Sıralama Yöntemleri](https://www.muratoner.net/javascript/javascript-turkce-siralama-yontemleri)
-- [Dotnet-migration does not exist, Hatası ve Çözümü](https://www.muratoner.net/csharp/dotnet-migration-does-not-exist-hatasi-ve-cozumu)
-- [CSS Ortalama Yöntemleri Nelerdir? Bir Div Nasıl Ortalanır?](https://www.muratoner.net/css/css-ortalama-yontemleri-nelerdir-bir-div-nasil-ortalanir)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
