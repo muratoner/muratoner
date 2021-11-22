@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Javacript Switch Case Nedir, Nasıl Tanımlanır ve Kullanılır? Örnek Kullanımları Nelerdir?](https://www.youtube.com/watch?v=cgP9p7_UijM)
+- [Javascript&#39;de string değeri nasıl sayıya dönüştürüz - En hızlı ve basit yöntem](https://www.youtube.com/watch?v=DkVmMd5W-_A)
 - [Blazor NavigationManager Nedir, Nasıl Kullanılır ve Sayfa Yönlendirmeleri Nasıl Yapılır?](https://www.youtube.com/watch?v=hOOYwP6CJdE)
 - [Blazor - Dependency Injection nedir, nasıl kullanılır?](https://www.youtube.com/watch?v=d5MHO2Y3SD0)
 - [Windows 10 - Hava Durumu/Haberler Görev Çubuğu Aracı Nasıl Kaldırılır/Açılır?](https://www.youtube.com/watch?v=u5dTeLafhpk)
-- [Sql Server Express 2019 Edition ve Management Studio Nedir, Nasıl İndirilir ve Kurulur?](https://www.youtube.com/watch?v=qhsJl0PSoMY)
-- [Detaylı Github Desktop Nedir, Nasıl Kurulur ve Kullanılır?](https://www.youtube.com/watch?v=gRZW8eTmLMA)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
