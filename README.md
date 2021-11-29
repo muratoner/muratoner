@@ -23,10 +23,10 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Javascript Pipeline Operator Nedir, Nasıl Kullanılır?](https://www.muratoner.net/javascript/javascript-pipeline-operators-nedir)
+- [Javascript Random Sayı Üretme – Rastgele](https://www.muratoner.net/javascript/javascript-random-sayi-uretme-rastgele)
+- [HTML Yorum Satırı Kodu Nedir, Nasıl Kullanılır?](https://www.muratoner.net/html/html-yorum-satiri-kodu-nedir-nasil-kullanili)
 - [HTML Translate Attribute Nedir, Neden Kullanılır?](https://www.muratoner.net/html/html-translate-attribute-nedir-kullanilir)
-- [Javascript Switch Case Nedir, Örnekli Nasıl Kullanılır?](https://www.muratoner.net/javascript/javascript-switch-case-nedir-ornekli-nasil-kullanilir)
-- [HTML Video Nedir, Ekleme Nasıl Yapılır?](https://www.muratoner.net/html/html-video-nedir-ekleme-nasil-yapilir)
-- [Sql Between Nedir? Nasıl Kullanılır?](https://www.muratoner.net/sql/sql-between-nedir-nasil-kullanilir)
+- [Javascript random string – rastgele kelime üretme](https://www.muratoner.net/javascript/javascript-random-string-rastgele-kelime-ur)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
