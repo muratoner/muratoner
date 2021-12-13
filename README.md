@@ -147,18 +147,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/WildGenie">Bilgehan Zeki ÖZAYTAÇ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/emrhsmz">
-        <img src="https://avatars2.githubusercontent.com/u/7373342" width="100px;" alt="emrhsmz"/>
-      </a>
-      <br />
-      <a href="https://github.com/emrhsmz">Emrah SEMİZ</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/akinozgen">
         <img src="https://avatars2.githubusercontent.com/u/9608963" width="100px;" alt="akinozgen"/>
       </a>
       <br />
       <a href="https://github.com/akinozgen">Akın Özgen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/emrhsmz">
+        <img src="https://avatars2.githubusercontent.com/u/7373342" width="100px;" alt="emrhsmz"/>
+      </a>
+      <br />
+      <a href="https://github.com/emrhsmz">Emrah SEMİZ</a>
     </td>
     <td align="center">
       <a href="https://github.com/fpenbegul">
@@ -212,18 +212,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/srcnslmz">Sercan SOLMAZ</a>
     </td>
     <td align="center">
-      <a href="https://github.com/oguzturker8">
-        <img src="https://avatars2.githubusercontent.com/u/33129613" width="100px;" alt="oguzturker8"/>
-      </a>
-      <br />
-      <a href="https://github.com/oguzturker8">Oguz Turker</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/evrimulgen">
         <img src="https://avatars2.githubusercontent.com/u/2697806" width="100px;" alt="evrimulgen"/>
       </a>
       <br />
       <a href="https://github.com/evrimulgen">Evrim ÜLGEN</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/oguzturker8">
+        <img src="https://avatars2.githubusercontent.com/u/33129613" width="100px;" alt="oguzturker8"/>
+      </a>
+      <br />
+      <a href="https://github.com/oguzturker8">Oguz Turker</a>
     </td>
   </tr>
 </table>
