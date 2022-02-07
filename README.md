@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Blazor - AdditionalAttributes Parameter / CaptureUnmatchedValues Nedir, Nasıl Kullanılır?](https://www.youtube.com/watch?v=KgrqB2KeJfc)
 - [Blazor - NavLink Nedir? Nasıl Kullanılır?](https://www.youtube.com/watch?v=Ig2DSriXh4g)
 - [HTML5 Nedir, nasıl çıktı, tarihçesi nedir, kim çıkardı? Html Dersleri #1](https://www.youtube.com/watch?v=JRqTPoXFaOA)
 - [Javacript Switch Case Nedir, Nasıl Tanımlanır ve Kullanılır? Örnek Kullanımları Nelerdir?](https://www.youtube.com/watch?v=cgP9p7_UijM)
 - [Javascript&#39;de string değeri nasıl sayıya dönüştürebiliriz? En hızlı ve basit yöntem!](https://www.youtube.com/watch?v=DkVmMd5W-_A)
-- [Blazor NavigationManager Nedir, Nasıl Kullanılır ve Sayfa Yönlendirmeleri Nasıl Yapılır?](https://www.youtube.com/watch?v=hOOYwP6CJdE)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
