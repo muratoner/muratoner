@@ -140,18 +140,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/Eugene0920">Eugene Fitzherbert</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WildGenie">
-        <img src="https://avatars2.githubusercontent.com/u/39780" width="100px;" alt="WildGenie"/>
-      </a>
-      <br />
-      <a href="https://github.com/WildGenie">Bilgehan Zeki ÖZAYTAÇ</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/akinozgen">
         <img src="https://avatars2.githubusercontent.com/u/9608963" width="100px;" alt="akinozgen"/>
       </a>
       <br />
       <a href="https://github.com/akinozgen">Akın Özgen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WildGenie">
+        <img src="https://avatars2.githubusercontent.com/u/39780" width="100px;" alt="WildGenie"/>
+      </a>
+      <br />
+      <a href="https://github.com/WildGenie">Bilgehan Zeki ÖZAYTAÇ</a>
     </td>
     <td align="center">
       <a href="https://github.com/emrhsmz">
@@ -205,6 +205,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/srcnslmz">Sercan SOLMAZ</a>
     </td>
     <td align="center">
+      <a href="https://github.com/oguzturker8">
+        <img src="https://avatars2.githubusercontent.com/u/33129613" width="100px;" alt="oguzturker8"/>
+      </a>
+      <br />
+      <a href="https://github.com/oguzturker8">Oguz Turker</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/dursunkatar">
         <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
       </a>
@@ -217,13 +224,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/sadedil">Mustafa Sadedil</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/oguzturker8">
-        <img src="https://avatars2.githubusercontent.com/u/33129613" width="100px;" alt="oguzturker8"/>
-      </a>
-      <br />
-      <a href="https://github.com/oguzturker8">Oguz Turker</a>
     </td>
   </tr>
 </table>
