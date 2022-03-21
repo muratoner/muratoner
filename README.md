@@ -177,18 +177,18 @@ HTML                     3 repos             ██░░░░░░░░░�
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/CagriKibar">
-        <img src="https://avatars2.githubusercontent.com/u/77233335" width="100px;" alt="CagriKibar"/>
-      </a>
-      <br />
-      <a href="https://github.com/CagriKibar">Çağrı KİBAR</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/akinayturan">
         <img src="https://avatars2.githubusercontent.com/u/3206344" width="100px;" alt="akinayturan"/>
       </a>
       <br />
       <a href="https://github.com/akinayturan">Akın Ayturan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/CagriKibar">
+        <img src="https://avatars2.githubusercontent.com/u/77233335" width="100px;" alt="CagriKibar"/>
+      </a>
+      <br />
+      <a href="https://github.com/CagriKibar">Çağrı KİBAR</a>
     </td>
     <td align="center">
       <a href="https://github.com/samilAkpinar">
@@ -202,7 +202,7 @@ HTML                     3 repos             ██░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/5118832" width="100px;" alt="srcnslmz"/>
       </a>
       <br />
-      <a href="https://github.com/srcnslmz">Sercan SOLMAZ</a>
+      <a href="https://github.com/srcnslmz">Sercan Solmaz</a>
     </td>
     <td align="center">
       <a href="https://github.com/oguzturker8">
