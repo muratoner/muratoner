@@ -126,6 +126,13 @@ HTML                     3 repos             ██░░░░░░░░░�
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/ethanflower1903">
+        <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
+      </a>
+      <br />
+      <a href="https://github.com/ethanflower1903">Ethan Flower</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/liling0509">
         <img src="https://avatars2.githubusercontent.com/u/35401210" width="100px;" alt="liling0509"/>
       </a>
@@ -167,6 +174,8 @@ HTML                     3 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/fpenbegul">Furkan Penbegul</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/sertunc">
         <img src="https://avatars2.githubusercontent.com/u/6024003" width="100px;" alt="sertunc"/>
@@ -174,8 +183,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       <br />
       <a href="https://github.com/sertunc">Sertunc SELEN</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/akinayturan">
         <img src="https://avatars2.githubusercontent.com/u/3206344" width="100px;" alt="akinayturan"/>
@@ -205,13 +212,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/srcnslmz">Sercan Solmaz</a>
     </td>
     <td align="center">
-      <a href="https://github.com/oguzturker8">
-        <img src="https://avatars2.githubusercontent.com/u/33129613" width="100px;" alt="oguzturker8"/>
-      </a>
-      <br />
-      <a href="https://github.com/oguzturker8">Oguz Turker</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sadedil">
         <img src="https://avatars2.githubusercontent.com/u/2132971" width="100px;" alt="sadedil"/>
       </a>
@@ -219,11 +219,11 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/sadedil">Mustafa Sadedil</a>
     </td>
     <td align="center">
-      <a href="https://github.com/dursunkatar">
-        <img src="https://avatars2.githubusercontent.com/u/45147011" width="100px;" alt="dursunkatar"/>
+      <a href="https://github.com/oguzturker8">
+        <img src="https://avatars2.githubusercontent.com/u/33129613" width="100px;" alt="oguzturker8"/>
       </a>
       <br />
-      <a href="https://github.com/dursunkatar">Dursun KATAR</a>
+      <a href="https://github.com/oguzturker8">Oguz Turker</a>
     </td>
   </tr>
 </table>
