@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Küçük İşletme Web Siteleri İçin Hangi Hosting Çözümü Uygundur?](https://www.muratoner.net/internet/kucuk-isletme-web-siteleri-icin-hangi-hosting-cozumu-uygundur)
 - [React Native Android RTL yerleşim desteği nasıl kapatılır?](https://www.muratoner.net/react-native/react-native-android-rtl-yerlesim-destegi-nasil-kapatilir)
 - [Android RTL Yerleşimi Nasıl Kapatılır?](https://www.muratoner.net/android/android-rtl-yerlesimi-nasil-kapatilir)
 - [Sql Server Schema Listesi Nasıl Alınır?](https://www.muratoner.net/sql/tsql/sql-server-schema-listesi-nasil-alinir)
 - [Javascript Pipeline Operator Nedir, Nasıl Kullanılır?](https://www.muratoner.net/javascript/javascript-pipeline-operators-nedir)
-- [Javascript Random Sayı Üretme – Rastgele](https://www.muratoner.net/javascript/javascript-random-sayi-uretme-rastgele)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
