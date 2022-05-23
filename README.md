@@ -130,7 +130,7 @@ HTML                     3 repos             ██░░░░░░░░░�
         <img src="https://avatars2.githubusercontent.com/u/84658436" width="100px;" alt="ethanflower1903"/>
       </a>
       <br />
-      <a href="https://github.com/ethanflower1903">Ethan Flower</a>
+      <a href="https://github.com/ethanflower1903">Ethan Flower-01100101 01110100 01101000 01100001 01101110</a>
     </td>
     <td align="center">
       <a href="https://github.com/liling0509">
