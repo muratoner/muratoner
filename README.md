@@ -205,18 +205,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/samilAkpinar">Şamil Akpınar</a>
     </td>
     <td align="center">
-      <a href="https://github.com/srcnslmz">
-        <img src="https://avatars2.githubusercontent.com/u/5118832" width="100px;" alt="srcnslmz"/>
-      </a>
-      <br />
-      <a href="https://github.com/srcnslmz">Sercan Solmaz</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/sadedil">
         <img src="https://avatars2.githubusercontent.com/u/2132971" width="100px;" alt="sadedil"/>
       </a>
       <br />
       <a href="https://github.com/sadedil">Mustafa Sadedil</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/srcnslmz">
+        <img src="https://avatars2.githubusercontent.com/u/5118832" width="100px;" alt="srcnslmz"/>
+      </a>
+      <br />
+      <a href="https://github.com/srcnslmz">Sercan Solmaz</a>
     </td>
     <td align="center">
       <a href="https://github.com/oguzturker8">
