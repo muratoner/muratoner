@@ -140,11 +140,11 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/liling0509">liling0509</a>
     </td>
     <td align="center">
-      <a href="https://github.com/josip0920">
-        <img src="https://avatars2.githubusercontent.com/u/90056738" width="100px;" alt="josip0920"/>
+      <a href="https://github.com/josip0920-zz">
+        <img src="https://avatars2.githubusercontent.com/u/90056738" width="100px;" alt="josip0920-zz"/>
       </a>
       <br />
-      <a href="https://github.com/josip0920">Josip Neretljak</a>
+      <a href="https://github.com/josip0920-zz">Josip Neretljak</a>
     </td>
     <td align="center">
       <a href="https://github.com/akinozgen">
