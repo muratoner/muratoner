@@ -191,18 +191,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/cetinogut">Cetin OGUT</a>
     </td>
     <td align="center">
-      <a href="https://github.com/samilAkpinar">
-        <img src="https://avatars2.githubusercontent.com/u/49079154" width="100px;" alt="samilAkpinar"/>
-      </a>
-      <br />
-      <a href="https://github.com/samilAkpinar">Şamil Akpınar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/akinayturan">
         <img src="https://avatars2.githubusercontent.com/u/3206344" width="100px;" alt="akinayturan"/>
       </a>
       <br />
       <a href="https://github.com/akinayturan">Akın Ayturan</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/samilAkpinar">
+        <img src="https://avatars2.githubusercontent.com/u/49079154" width="100px;" alt="samilAkpinar"/>
+      </a>
+      <br />
+      <a href="https://github.com/samilAkpinar">Şamil Akpınar</a>
     </td>
     <td align="center">
       <a href="https://github.com/CagriKibar">
@@ -212,18 +212,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/CagriKibar">Çağrı KİBAR</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ogzcode">
+        <img src="https://avatars2.githubusercontent.com/u/58819819" width="100px;" alt="ogzcode"/>
+      </a>
+      <br />
+      <a href="https://github.com/ogzcode">oguzhangc</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sadedil">
         <img src="https://avatars2.githubusercontent.com/u/2132971" width="100px;" alt="sadedil"/>
       </a>
       <br />
       <a href="https://github.com/sadedil">Mustafa Sadedil</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/srcnslmz">
-        <img src="https://avatars2.githubusercontent.com/u/5118832" width="100px;" alt="srcnslmz"/>
-      </a>
-      <br />
-      <a href="https://github.com/srcnslmz">Sercan Solmaz</a>
     </td>
   </tr>
 </table>
