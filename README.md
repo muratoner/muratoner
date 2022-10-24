@@ -198,6 +198,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/akinayturan">Akın Ayturan</a>
     </td>
     <td align="center">
+      <a href="https://github.com/ogzcode">
+        <img src="https://avatars2.githubusercontent.com/u/58819819" width="100px;" alt="ogzcode"/>
+      </a>
+      <br />
+      <a href="https://github.com/ogzcode">oguzhangc</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/samilAkpinar">
         <img src="https://avatars2.githubusercontent.com/u/49079154" width="100px;" alt="samilAkpinar"/>
       </a>
@@ -210,13 +217,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/CagriKibar">Çağrı KİBAR</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ogzcode">
-        <img src="https://avatars2.githubusercontent.com/u/58819819" width="100px;" alt="ogzcode"/>
-      </a>
-      <br />
-      <a href="https://github.com/ogzcode">oguzhangc</a>
     </td>
     <td align="center">
       <a href="https://github.com/sadedil">
