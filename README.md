@@ -198,13 +198,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/akinayturan">Akın Ayturan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/samilAkpinar">
-        <img src="https://avatars2.githubusercontent.com/u/49079154" width="100px;" alt="samilAkpinar"/>
-      </a>
-      <br />
-      <a href="https://github.com/samilAkpinar">Şamil Akpınar</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/CagriKibar">
         <img src="https://avatars2.githubusercontent.com/u/77233335" width="100px;" alt="CagriKibar"/>
       </a>
@@ -212,11 +205,11 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/CagriKibar">Çağrı KİBAR</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ogzcode">
-        <img src="https://avatars2.githubusercontent.com/u/58819819" width="100px;" alt="ogzcode"/>
+      <a href="https://github.com/samilAkpinar">
+        <img src="https://avatars2.githubusercontent.com/u/49079154" width="100px;" alt="samilAkpinar"/>
       </a>
       <br />
-      <a href="https://github.com/ogzcode">oguzhangc</a>
+      <a href="https://github.com/samilAkpinar">Şamil Akpınar</a>
     </td>
     <td align="center">
       <a href="https://github.com/sadedil">
@@ -224,6 +217,13 @@ HTML                     3 repos             ██░░░░░░░░░�
       </a>
       <br />
       <a href="https://github.com/sadedil">Mustafa Sadedil</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/mvolkanaslan">
+        <img src="https://avatars2.githubusercontent.com/u/68739154" width="100px;" alt="mvolkanaslan"/>
+      </a>
+      <br />
+      <a href="https://github.com/mvolkanaslan">Volkan Aslan</a>
     </td>
   </tr>
 </table>
