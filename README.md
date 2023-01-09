@@ -184,13 +184,6 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/sertunc">Sertunc SELEN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/cetinogut">
-        <img src="https://avatars2.githubusercontent.com/u/43504027" width="100px;" alt="cetinogut"/>
-      </a>
-      <br />
-      <a href="https://github.com/cetinogut">Cetin OGUT</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/akinayturan">
         <img src="https://avatars2.githubusercontent.com/u/3206344" width="100px;" alt="akinayturan"/>
       </a>
@@ -198,11 +191,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/akinayturan">Akın Ayturan</a>
     </td>
     <td align="center">
-      <a href="https://github.com/samilAkpinar">
-        <img src="https://avatars2.githubusercontent.com/u/49079154" width="100px;" alt="samilAkpinar"/>
+      <a href="https://github.com/cetinogut">
+        <img src="https://avatars2.githubusercontent.com/u/43504027" width="100px;" alt="cetinogut"/>
       </a>
       <br />
-      <a href="https://github.com/samilAkpinar">Şamil Akpınar</a>
+      <a href="https://github.com/cetinogut">Cetin OGUT</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/adnanyangilic">
+        <img src="https://avatars2.githubusercontent.com/u/65245974" width="100px;" alt="adnanyangilic"/>
+      </a>
+      <br />
+      <a href="https://github.com/adnanyangilic">adnanyangilic</a>
     </td>
     <td align="center">
       <a href="https://github.com/CagriKibar">
@@ -212,18 +212,18 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/CagriKibar">Çağrı KİBAR</a>
     </td>
     <td align="center">
+      <a href="https://github.com/samilAkpinar">
+        <img src="https://avatars2.githubusercontent.com/u/49079154" width="100px;" alt="samilAkpinar"/>
+      </a>
+      <br />
+      <a href="https://github.com/samilAkpinar">Şamil Akpınar</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sadedil">
         <img src="https://avatars2.githubusercontent.com/u/2132971" width="100px;" alt="sadedil"/>
       </a>
       <br />
       <a href="https://github.com/sadedil">Mustafa Sadedil</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/adnanyangilic">
-        <img src="https://avatars2.githubusercontent.com/u/65245974" width="100px;" alt="adnanyangilic"/>
-      </a>
-      <br />
-      <a href="https://github.com/adnanyangilic">adnanyangilic</a>
     </td>
   </tr>
 </table>
