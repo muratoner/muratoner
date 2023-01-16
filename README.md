@@ -184,11 +184,11 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/sertunc">Sertunc SELEN</a>
     </td>
     <td align="center">
-      <a href="https://github.com/akinayturan">
-        <img src="https://avatars2.githubusercontent.com/u/3206344" width="100px;" alt="akinayturan"/>
+      <a href="https://github.com/adnanyangilic">
+        <img src="https://avatars2.githubusercontent.com/u/65245974" width="100px;" alt="adnanyangilic"/>
       </a>
       <br />
-      <a href="https://github.com/akinayturan">Akın Ayturan</a>
+      <a href="https://github.com/adnanyangilic">adnanyangilic</a>
     </td>
     <td align="center">
       <a href="https://github.com/cetinogut">
@@ -198,11 +198,11 @@ HTML                     3 repos             ██░░░░░░░░░�
       <a href="https://github.com/cetinogut">Cetin OGUT</a>
     </td>
     <td align="center">
-      <a href="https://github.com/adnanyangilic">
-        <img src="https://avatars2.githubusercontent.com/u/65245974" width="100px;" alt="adnanyangilic"/>
+      <a href="https://github.com/akinayturan">
+        <img src="https://avatars2.githubusercontent.com/u/3206344" width="100px;" alt="akinayturan"/>
       </a>
       <br />
-      <a href="https://github.com/adnanyangilic">adnanyangilic</a>
+      <a href="https://github.com/akinayturan">Akın Ayturan</a>
     </td>
     <td align="center">
       <a href="https://github.com/CagriKibar">
