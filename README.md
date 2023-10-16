@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Nedir ve Nerelerde Kullanılır?](https://www.muratoner.net/csharp/c-nedir-ve-nerelerde-kullanilir)
 - [“Cannot be tracked … key value for {‘Id’} is already being tracked” Hatası ve Çözümü](https://www.muratoner.net/entity-framework/cannot-be-tracked-key-value-for-id-is-already-being-tracked-hatasi-ve-cozumu)
 - [Küçük İşletme Web Siteleri İçin Hangi Hosting Çözümü Uygundur?](https://www.muratoner.net/internet/kucuk-isletme-web-siteleri-icin-hangi-hosting-cozumu-uygundur)
 - [React Native Android RTL yerleşim desteği nasıl kapatılır?](https://www.muratoner.net/react-native/react-native-android-rtl-yerlesim-destegi-nasil-kapatilir)
 - [Android RTL Yerleşimi Nasıl Kapatılır?](https://www.muratoner.net/android/android-rtl-yerlesimi-nasil-kapatilir)
-- [Sql Server Schema Listesi Nasıl Alınır?](https://www.muratoner.net/sql/tsql/sql-server-schema-listesi-nasil-alinir)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
