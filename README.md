@@ -12,9 +12,9 @@
 
 ### Connect with me:
 [![Subscribe On Youtube](https://img.shields.io/badge/Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCitC_ZPcHmBcP_cxLPz04RQ?sub_confirmation=1)
-[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/muratonerr)
-[![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oner.muratt/)
-[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muratoner/)
+[![Follow on Twitter](https://img.shields.io/badge/Follow-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/onermrat)
+[![View Instagram](https://img.shields.io/badge/view-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mratoner)
+[![Connect on LinkedIn](https://img.shields.io/badge/connect-%230077B5.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muratoner)
 [![View RSS](https://img.shields.io/badge/View-white.svg?&style=for-the-badge&logo=rss&logoColor=orange)](https://muratoner.net/feed)
 [![View Site](https://img.shields.io/badge/View-white.svg?&style=for-the-badge&logo=safari&logoColor=blue)](https://muratoner.net)
 [![Follow on Medium](https://img.shields.io/badge/Follow-green?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@onermurat)
