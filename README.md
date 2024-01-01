@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [C#’da görse birleştirme işlemi nasıl yapılır](https://www.muratoner.net/csharp/cda-gorse-birlestirme-islemi-nasil-yapilir)
-- [C# Nedir ve Nerelerde Kullanılır?](https://www.muratoner.net/csharp/c-nedir-ve-nerelerde-kullanilir)
-- [“Cannot be tracked … key value for {‘Id’} is already being tracked” Hatası ve Çözümü](https://www.muratoner.net/entity-framework/cannot-be-tracked-key-value-for-id-is-already-being-tracked-hatasi-ve-cozumu)
-- [React Native Android RTL yerleşim desteği nasıl kapatılır?](https://www.muratoner.net/react-native/react-native-android-rtl-yerlesim-destegi-nasil-kapatilir)
-- [Android RTL Yerleşimi Nasıl Kapatılır?](https://www.muratoner.net/android/android-rtl-yerlesimi-nasil-kapatilir)
+- [5 Adımda SVG Dosyanızı React Bileşenine Dönüştürme: SVGR Kullanımı Rehberi](https://muratoner.net/5-adimda-svg-dosyanizi-react-bilesenine-donusturme/)
+- [C#’da görse birleştirme işlemi nasıl yapılır](https://muratoner.net/cda-gorse-birlestirme-islemi-nasil-yapilir/)
+- [C# Nedir ve Nerelerde Kullanılır?](https://muratoner.net/c-nedir-ve-nerelerde-kullanilir/)
+- [“Cannot be tracked … key value for {‘Id’} is already being tracked” Hatası ve Çözümü](https://muratoner.net/cannot-be-tracked-key-value-for-id-is-already-being-tracked-hatasi-ve-cozumu/)
+- [React Native Android RTL yerleşim desteği nasıl kapatılır?](https://muratoner.net/react-native-android-rtl-yerlesim-destegi-nasil-kapatilir/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
