@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Android Internal App Sharing Off &lpar;Dahili uygulama paylaşımı kapalı&rpar; Hatası Çözümü](https://muratoner.net/android-internal-app-sharing-off-hatasi-cozumu)
+- [React Native PDF Gösterimi](https://muratoner.net/react-native-pdf-gosterimi)
+- [Phaser 3 ile Tanışma: 2D Oyunların Büyülü Dünyasına Adım Atın](https://muratoner.net/phaser-3-ile-tanisma-2d-oyunlarin-buyulu-dunyasi)
 - [splice ve toSpliced: Farkları ve Nasıl Kullanılır?](https://muratoner.net/splice-ve-tospliced-farklari-ve-nasil-kullanilir)
 - [Javascript Best Practices](https://muratoner.net/javascript-best-practices)
-- [XCode Archive: 1 Komutla Hızlı ve Etkili Bir Şekilde Nasıl Alınır?](https://muratoner.net/xcode-archive-komut-satiriyla-nasil-alinir)
-- [5 Adımda SVG Dosyanızı React Bileşenine Dönüştürme: SVGR Kullanımı Rehberi](https://muratoner.net/5-adimda-svg-dosyanizi-react-bilesenine-donusturme)
-- [C#’da görsel birleştirme işlemi nasıl yapılır](https://muratoner.net/cda-gorse-birlestirme-islemi-nasil-yapilir)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
