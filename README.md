@@ -22,11 +22,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [React Native – Xcode “node” Hatası ve Çözümü](https://muratoner.net/react-native-xcode-node-hatasi-ve-cozumu)
 - [Android Internal App Sharing Off &lpar;Dahili uygulama paylaşımı kapalı&rpar; Hatası Çözümü](https://muratoner.net/android-internal-app-sharing-off-hatasi-cozumu)
 - [React Native PDF Gösterimi](https://muratoner.net/react-native-pdf-gosterimi)
 - [Phaser 3 ile Tanışma: 2D Oyunların Büyülü Dünyasına Adım Atın](https://muratoner.net/phaser-3-ile-tanisma-2d-oyunlarin-buyulu-dunyasi)
 - [splice ve toSpliced: Farkları ve Nasıl Kullanılır?](https://muratoner.net/splice-ve-tospliced-farklari-ve-nasil-kullanilir)
-- [Javascript Best Practices](https://muratoner.net/javascript-best-practices)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
