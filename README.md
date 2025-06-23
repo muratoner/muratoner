@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [HTML&#39;de &quot;reversed&quot; Özelliği ile Sıralı Listeleri Kolayca Tersine Çevirin](https://www.youtube.com/watch?v=zqqCWgBSS-Q)
+- [HTML5 ile Web Kodlamaya Giriş: Temel Dersler ve Pratik Örnekler](https://www.youtube.com/watch?v=s8kHZ-osXo0)
+- [HTML&#39;de &quot;reversed&quot; Özelliği ile Sıralı Listeleri Kolayca Tersine Çevirin](https://www.youtube.com/shorts/zqqCWgBSS-Q)
 - [Blazor - AdditionalAttributes Parameter / CaptureUnmatchedValues Nedir, Nasıl Kullanılır?](https://www.youtube.com/watch?v=KgrqB2KeJfc)
 - [Blazor - NavLink Nedir? Nasıl Kullanılır?](https://www.youtube.com/watch?v=Ig2DSriXh4g)
 - [HTML5 Nedir, nasıl çıktı, tarihçesi nedir, kim çıkardı? Html Dersleri #1](https://www.youtube.com/watch?v=JRqTPoXFaOA)
-- [Javacript Switch Case Nedir, Nasıl Tanımlanır ve Kullanılır? Örnek Kullanımları Nelerdir?](https://www.youtube.com/watch?v=cgP9p7_UijM)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
