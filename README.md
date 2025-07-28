@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [HTML5 Inline ve Block Elementler | Yeni Başlayanlar İçin Detaylı Anlatım](https://www.youtube.com/watch?v=CC1JibesmMM)
 - [HTML5 Temel Elementler: Web Geliştirmeye Giriş &lpar;Sıfırdan Öğren!&rpar; #3](https://www.youtube.com/watch?v=1b3x1k3bm88)
 - [HTML5 ile Web Kodlamaya Giriş: Temel Dersler ve Pratik Örnekler #2](https://www.youtube.com/watch?v=s8kHZ-osXo0)
 - [HTML&#39;de &quot;reversed&quot; Özelliği ile Sıralı Listeleri Kolayca Tersine Çevirin](https://www.youtube.com/shorts/zqqCWgBSS-Q)
 - [Blazor - AdditionalAttributes Parameter / CaptureUnmatchedValues Nedir, Nasıl Kullanılır?](https://www.youtube.com/watch?v=KgrqB2KeJfc)
-- [Blazor - NavLink Nedir? Nasıl Kullanılır?](https://www.youtube.com/watch?v=Ig2DSriXh4g)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
