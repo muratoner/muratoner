@@ -31,11 +31,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Sadece 8 Dakikada HTML5 Attribute&#39;ları Anlayın!](https://www.youtube.com/watch?v=uAp3M46DYIg)
 - [Fotoğraflarını Yapay Zeka ile Chibi Karaktere Dönüştür! 🤖✨ &lpar;Chibify AI Poe&rpar;](https://www.youtube.com/watch?v=UlEdgw1hYgU)
 - [CapCut Bulanıklaştırma Nasıl Yapılır? | En Kolay Blur Efekti](https://www.youtube.com/watch?v=5Q57KM5TOFI)
 - [MacOS Masaüstü İkonlarını Anında Gizle/Göster! | Tek Komutla Temiz Masaüstü](https://www.youtube.com/watch?v=7N5cppLtkKk)
 - [HTML5 Inline ve Block Elementler | Yeni Başlayanlar İçin Detaylı Anlatım](https://www.youtube.com/watch?v=CC1JibesmMM)
-- [HTML5 Temel Elementler: Web Geliştirmeye Giriş &lpar;Sıfırdan Öğren!&rpar; #3](https://www.youtube.com/watch?v=1b3x1k3bm88)
 <!-- YOUTUBE:END -->
 
 **🐱 My Github Data** 
